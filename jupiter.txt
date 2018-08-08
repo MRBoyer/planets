@@ -1,2 +1,4 @@
 Jupiter is a gas giant planet fifth from sun.
 The most moons are possessed by Jupiter.
+Four moons known as Galilean because of Galileo observed them:
+Europa, Ganymede, Io, Enceladus?
